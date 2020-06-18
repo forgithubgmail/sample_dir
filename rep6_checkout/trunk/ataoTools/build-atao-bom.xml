@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <project name="build-atao-bom" default="ear-build-same-db" basedir=".">
 
-    <!-- Importing common utilities -->
+    <!-- Importing common utilities  -->
     <import file="commonUtil.xml"/>
 
     <property name="package.base" value="${basedir}/packageWorkDir"/>
